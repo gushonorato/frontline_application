@@ -1,0 +1,16 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* This file is for your main application CSS */
+code.inline {
+  @apply bg-gray-100 p-0.5 rounded border border-gray-200;
+}
+
+code.inline::after {
+  content: "";
+}
+
+code.inline::before {
+  content: "";
+}
