@@ -18,6 +18,7 @@ defmodule FrontlineApplicationWeb.Router do
     pipe_through :browser
 
     live "/frontline_wildfire_application", FrontlineWildfireApplicationLive
+    live "/about", AboutLive
   end
 
   # Other scopes may use custom stacks.
