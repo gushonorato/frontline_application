@@ -7,7 +7,7 @@ defmodule FrontlineApplicationWeb.AboutLive do
 
   # Who I am?
 
-  I'm Gustavo Honorato, a 42 years old software developer based in Niterói, Brazil, a mid-sized city right next to the famous Rio de Janeiro. While Niterói may not be widely known internationally, it offers stunning views of Rio's skyline (which, I must say, is a great motivator when debugging tricky Elixir code). Now, you might be wondering about the time zone difference, Niterói follows Brasília Standard Time (BRT, UTC-3). To ensure seamless collaboration, I'm flexible with my working hours and open to adjusting it. Additionally, I am available to relocate to the U.S. if needed.
+  I'm Gustavo Honorato, a 42 years old software developer based in Niterói, Brazil, a mid-sized city right next to the famous Rio de Janeiro. While Niterói may not be widely known internationally, it offers stunning views of Rio's skyline (which, I must say, is a great motivator when debugging tricky Elixir code). Now, you might be wondering about the time zone difference, Niterói follows Brasília Standard Time (BRT, UTC-3). To ensure seamless collaboration, I'm flexible with my working hours and open to adjusting it. Additionally, I am available to relocate if needed.
 
   # My Story
 
